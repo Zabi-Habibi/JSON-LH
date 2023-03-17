@@ -41,3 +41,26 @@
     }
   ]
 }
+{
+  "name": "Pistachio Bliss",
+  "calories": 370,
+  "type": "kulfi",
+  "ingredients": [
+    "pistacchio cream",
+    "almond chunks",
+    "chocolate bits"
+  ],
+  "image": "ice-cream-xtra1.svg"
+},
+{
+  "name": "Morning Coffee",
+  "calories": 150,
+  "type": "froyo",
+  "ingredients": [
+    "coffee cream",
+    "dark chocolate chips",
+    "sweetner"
+  ],
+  "image": "ice-cream-xtra2.svg"
+}
+
